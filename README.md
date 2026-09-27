@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 1 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-09-25 | [solution](problems/0413-end-to-end-latency-decomposition) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-27 | [solution](math/0024-information-theory-entropy) |
 
 ---
 

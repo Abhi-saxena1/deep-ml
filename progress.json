@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:19:21.520Z",
+  "generated_at": "2026-09-28T20:02:35.544Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -96,6 +96,19 @@
       "last_pushed_at": "2026-09-28T16:19:20.802Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:322": {
+      "kind": "problem",
+      "id": "322",
+      "title": "Bradley-Terry Model for Pairwise Rankings",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/322",
+      "path": "problems/0322-bradley-terry-model-for-pairwise-rankings",
+      "first_solved_at": "2026-09-28T20:02:31.837Z",
+      "last_pushed_at": "2026-09-28T20:02:31.837Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }

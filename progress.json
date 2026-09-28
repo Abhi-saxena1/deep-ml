@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:45:20.815Z",
+  "generated_at": "2026-09-28T08:32:17.185Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -24,6 +24,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-27T20:45:19.837Z",
       "last_pushed_at": "2026-09-27T20:45:19.837Z"
+    },
+    "math:51": {
+      "kind": "math",
+      "id": "51",
+      "title": "Bradley-Terry Preference Model",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/51",
+      "path": "math/0051-bradley-terry-preference-model",
+      "first_solved_at": "2026-09-28T08:32:16.805Z",
+      "last_pushed_at": "2026-09-28T08:32:16.805Z"
     }
   }
 }

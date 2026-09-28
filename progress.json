@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T09:24:35.336Z",
+  "generated_at": "2026-09-28T09:42:49.439Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -57,6 +57,19 @@
       "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
       "first_solved_at": "2026-09-28T09:24:34.565Z",
       "last_pushed_at": "2026-09-28T09:24:34.565Z"
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-09-28T09:42:48.712Z",
+      "last_pushed_at": "2026-09-28T09:42:48.712Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

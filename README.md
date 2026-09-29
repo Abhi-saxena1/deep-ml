@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 7 problems · 0 labs · 5 math
+**13** solved · 8 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-09-28 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-09-28 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-09-25 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-28 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-29 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-09-29 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |

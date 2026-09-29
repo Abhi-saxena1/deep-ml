@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:02:35.544Z",
+  "generated_at": "2026-09-29T07:22:21.748Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -109,6 +109,19 @@
       "last_pushed_at": "2026-09-28T20:02:31.837Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:323": {
+      "kind": "problem",
+      "id": "323",
+      "title": "Pairwise Preference Judge for LLM Comparison",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/323",
+      "path": "problems/0323-pairwise-preference-judge-for-llm-comparison",
+      "first_solved_at": "2026-09-29T07:22:21.137Z",
+      "last_pushed_at": "2026-09-29T07:22:21.137Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }

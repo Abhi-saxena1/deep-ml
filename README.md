@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 8 problems · 0 labs · 5 math
+**14** solved · 9 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-29 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-28 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-29 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
+| [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-30 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-09-29 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 
 ## Math

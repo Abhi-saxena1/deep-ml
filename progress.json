@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:25:58.278Z",
+  "generated_at": "2026-10-01T10:17:53.952Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -185,6 +185,17 @@
       "last_pushed_at": "2026-09-30T11:25:56.600Z",
       "language": "python",
       "lines": 17
+    },
+    "math:163": {
+      "kind": "math",
+      "id": "163",
+      "title": "Tail Latency: Percentiles, Fan-Out and Why the Mean Lies",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/163",
+      "path": "math/0163-tail-latency-percentiles-fan-out-and-why-the-mean-lies",
+      "first_solved_at": "2026-10-01T10:17:52.268Z",
+      "last_pushed_at": "2026-10-01T10:17:52.268Z"
     }
   }
 }

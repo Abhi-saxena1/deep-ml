@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 10 problems · 0 labs · 5 math
+**16** solved · 10 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-09-28 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-09-28 | [solution](math/0051-bradley-terry-preference-model) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-27 | [solution](math/0024-information-theory-entropy) |
+| [Tail Latency: Percentiles, Fan-Out and Why the Mean Lies](https://www.deep-ml.com/math-problems/163) | medium | 2026-10-01 | [solution](math/0163-tail-latency-percentiles-fan-out-and-why-the-mean-lies) |
 
 ---
 

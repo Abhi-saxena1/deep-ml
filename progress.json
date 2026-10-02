@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:58:34.226Z",
+  "generated_at": "2026-10-02T16:55:35.900Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -350,6 +350,19 @@
       "last_pushed_at": "2026-10-02T15:58:34.080Z",
       "language": "python",
       "lines": 76
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-10-02T16:55:35.227Z",
+      "last_pushed_at": "2026-10-02T16:55:35.227Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }

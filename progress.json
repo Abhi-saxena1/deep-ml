@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:55:35.900Z",
+  "generated_at": "2026-10-02T20:25:02.960Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -363,6 +363,19 @@
       "last_pushed_at": "2026-10-02T16:55:35.227Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:375": {
+      "kind": "problem",
+      "id": "375",
+      "title": "Learned Positional Embeddings",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/375",
+      "path": "problems/0375-learned-positional-embeddings",
+      "first_solved_at": "2026-10-02T20:25:01.003Z",
+      "last_pushed_at": "2026-10-02T20:25:01.003Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

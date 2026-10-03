@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 22 problems · 1 labs · 7 math
+**31** solved · 23 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-09-28 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-29 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-30 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
+| [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-10-03 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Rubric-Based LLM Judge Evaluation](https://www.deep-ml.com/problems/317) | medium | 2026-09-29 | [solution](problems/0317-rubric-based-llm-judge-evaluation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-02 | [solution](problems/0085-positional-encoding-calculator) |
 

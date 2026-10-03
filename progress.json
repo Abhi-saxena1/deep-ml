@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:33:44.456Z",
+  "generated_at": "2026-10-03T15:32:13.467Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -463,6 +463,19 @@
       "path": "math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d",
       "first_solved_at": "2026-10-03T14:33:42.968Z",
       "last_pushed_at": "2026-10-03T14:33:42.968Z"
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-10-03T15:32:11.998Z",
+      "last_pushed_at": "2026-10-03T15:32:11.998Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

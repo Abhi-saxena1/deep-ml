@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 26 problems · 2 labs · 7 math
+**36** solved · 26 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Attention as a Soft Dictionary Lookup](https://www.deep-ml.com/math-problems/133) | easy | 2026-10-03 | [solution](math/0133-attention-as-a-soft-dictionary-lookup) |
 | [LoRA Parameter and Compute Arithmetic](https://www.deep-ml.com/math-problems/154) | easy | 2026-09-29 | [solution](math/0154-lora-parameter-and-compute-arithmetic) |
 | [Perplexity as Exponentiated Cross-Entropy](https://www.deep-ml.com/math-problems/164) | easy | 2026-09-28 | [solution](math/0164-perplexity-as-exponentiated-cross-entropy) |
 | [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-09-28 | [solution](math/0127-precision-and-recall-at-a-threshold) |
